@@ -1,6 +1,9 @@
 name: flutter_login_screens
 description: A new Flutter application.
 
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
 dependencies:
   flutter:
     sdk: flutter
